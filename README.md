@@ -75,3 +75,9 @@ utils: Some generic utility functions to transform data structures.
 ----------------------
 Coming soon are LSTD and Policy Gradient Algorithms (the latter is motivated by the inability of the currently
 implemented algorithms to handle continuous action spaces, eg: for the Portfolio Management example).
+
+
+## Running on Docker
+- `./bin/console.sh` will run a shell within docker 
+    - has packages have been setup
+    - supports bash history
